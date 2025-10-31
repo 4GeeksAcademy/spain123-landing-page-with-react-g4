@@ -1,10 +1,10 @@
 import React from "react";
 
-const Footer = () => {
+export const Footer = () => {
   return (
     <>
       <hr />
-      <p className="mt-5">
+      <p className="text-center mt-5">
         Made by{": "}
         <a href="https://www.pokemon.com/es">Dylan, Alex & ¿Alvaro?</a>, with
         love!
